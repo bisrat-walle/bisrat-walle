@@ -1,8 +1,11 @@
-### Hi there, I am Bisrat 👋
+### Hi there, Bisrat here👋
 
-🔭 I’m currently working on Full Stack Web Development Projects
-🌱 I’m currently learning Software Engineering at Addis Ababa University
-👯 I’m looking to collaborate on open source projects
+🔥I am enthusiastic Software Developer eager to contribute to team success through hard
+work🔥 <br />
+🔭 I’m currently working on Full Stack Web Development Projects <br />
+🌱 I’m currently learning Software Engineering at Addis Ababa University<br />
+👯 I’m looking to collaborate on open source projects<br />
+⚡ Fun fact: I can work two days without sleeping
 
 I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${bisrat-walle}.${bisrat-walle})
 
