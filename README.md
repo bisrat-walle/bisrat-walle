@@ -6,7 +6,7 @@
 👯 I’m looking to collaborate on open source projects<br />
 ⚡ Fun fact: I can work two days without sleeping
 
-📫 Reach me on <a href="https://linkedin.com/in/bisrat-walle" target="_blank">LinkedIn</a>, <a href="https://t.me/bisratu" target="_blank">Telegram</a>, <a href="bisratwalle3@gmail.com" target="_blank">Gmail</a> 
+📫 Reach me on <a href="https://linkedin.com/in/bisrat-walle" target="_blank">LinkedIn</a>, <a href="https://t.me/bisratu" target="_blank">Telegram</a>, <a href="mailto:bisratwalle3@gmail.com" target="_blank">Gmail</a> 
 
 I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${bisrat-walle}.${bisrat-walle})
 
