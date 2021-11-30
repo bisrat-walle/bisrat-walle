@@ -10,7 +10,7 @@ I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 
 
 
-<img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=00000000 " />
 
 <br />
 
