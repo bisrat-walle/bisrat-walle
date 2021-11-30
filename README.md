@@ -18,6 +18,9 @@ I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 
 ## I spent this week on
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
