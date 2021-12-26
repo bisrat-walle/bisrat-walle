@@ -19,7 +19,7 @@ I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 ## I spent this week on
 <!--START_SECTION:waka-->
 ```text
-
+HTML         22 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
