@@ -4,7 +4,7 @@
 🔭 I’m currently working on Full Stack Web Development Projects <br />
 🌱 I’m currently learning Software Engineering at Addis Ababa University<br />
 👯 I’m looking to collaborate on open source projects<br />
-⚡ Fun fact: I can work two days without sleeping
+<!--⚡ Fun fact-->
 
 📫 Reach me on <a href="https://bisrat-walle.netlify.app" target="_blank">My Website</a>, <a href="https://linkedin.com/in/bisrat-walle" target="_blank">LinkedIn</a>, <a href="https://t.me/bisratu" target="_blank">Telegram</a>, <a href="mailto:bisratwalle3@gmail.com" target="_blank">Gmail</a> 
 
