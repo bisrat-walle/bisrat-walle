@@ -19,10 +19,10 @@ I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 ## I spent this week on
 <!--START_SECTION:waka-->
 ```text
-HTML         30 mins         ██████████▓░░░░░░░░░░░░░░   42.37 % 
-Java         22 mins         ███████▓░░░░░░░░░░░░░░░░░   30.47 % 
-XML          16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 % 
-Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Java         35 mins         ██████████▒░░░░░░░░░░░░░░   41.33 % 
+HTML         30 mins         █████████░░░░░░░░░░░░░░░░   35.85 % 
+XML          16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 
