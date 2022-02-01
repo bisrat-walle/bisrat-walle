@@ -14,6 +14,8 @@ I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 
 <img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisrat-walle&layout=compact)](https://github.com/bisrat-walle/github-readme-stats)
+
 <br />
 
 ## I spent this week on
