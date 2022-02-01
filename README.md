@@ -11,11 +11,11 @@
 I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${bisrat-walle}.${bisrat-walle})
 
 
-<div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+<div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-wrap: wrap; justify-content: space-evenly" -->
   
-<img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
+<img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" /><!-- .element: style="margin: 10px; padding: 20px;"-->
       
-<img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
+<img height="180em" style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" /><!-- .element: style="margin: 10px; padding: 20px;"-->
 
 </div>
 
