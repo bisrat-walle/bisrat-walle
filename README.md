@@ -1,6 +1,9 @@
 ## Hi there, Bisrat here <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="width:50px;height:50px;">
 
 <!--START_SECTION:badges-->
+
+[![Introduction to Cloud Computing](https://images.credly.com/size/110x110/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/0d88dfcf-075a-404c-b8fc-c4d01d3d32e1 "Introduction to Cloud Computing")
+[![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/4a2bbe63-4236-49db-802e-e8e76b2d95ec "Machine Learning with Python")
 <!--END_SECTION:badges-->
 
 ✨I am a dedicated Software Engineer having a clear understanding of marketable and scalable software development principles✨ <br /> <br />
