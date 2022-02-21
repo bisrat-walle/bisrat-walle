@@ -8,7 +8,7 @@
 
 📫 Reach me on <a href="https://bisrat-walle.netlify.app" target="_blank">My Website</a>, <a href="https://linkedin.com/in/bisrat-walle" target="_blank">LinkedIn</a>, <a href="https://t.me/bisratu" target="_blank">Telegram</a>, <a href="mailto:bisratwalle3@gmail.com" target="_blank">Gmail</a> 
 
-I am super excited to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${bisrat-walle}.${bisrat-walle})
+I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${bisrat-walle}.${bisrat-walle})
 
 
 <div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between" -->
