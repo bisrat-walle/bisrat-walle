@@ -38,7 +38,8 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#     9 mins          ██████████████████████░░░   88.25 %
+JSON   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
 ```
 
 <!--END_SECTION:waka-->
