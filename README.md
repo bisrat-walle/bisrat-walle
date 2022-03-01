@@ -14,8 +14,9 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between" -->
 
        
-<img style="background-color:dodgerblue;margin:100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
+<img style="background-color:dodgerblue;margin:100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" /> 
   
+       
 <img style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=bisrat-walle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
 
 
