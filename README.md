@@ -39,9 +39,12 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-C#     54 mins         ████████████████▓░░░░░░░░   66.15 %
-JSON   22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-XML    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+C#           57 mins         ██████████████▓░░░░░░░░░░   59.13 %
+JSON         22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+Text         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+XML          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Dart         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
