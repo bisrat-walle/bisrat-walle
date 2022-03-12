@@ -40,12 +40,9 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Dart         51 mins         ████████████████▓░░░░░░░░   66.92 %
-Markdown     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Text         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Java         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-C#           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Dart       49 mins         ████████████████████▒░░░░   80.83 %
+Markdown   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Java       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
