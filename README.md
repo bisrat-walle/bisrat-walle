@@ -40,9 +40,9 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Java               1 hr 47 mins    ██████████████████▒░░░░░░   72.90 %
-reStructuredText   25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-Dart               14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Java               1 hr 47 mins    ████████████████████░░░░░   80.37 %
+reStructuredText   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+Dart               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
