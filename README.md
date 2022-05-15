@@ -39,9 +39,9 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Python   5 hrs 25 mins   █████████████████▒░░░░░░░   69.72 %
-Dart     2 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
-C        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python   5 hrs 42 mins   █████████████████▓░░░░░░░   70.79 %
+Dart     2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+C        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
