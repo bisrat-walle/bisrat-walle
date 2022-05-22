@@ -1,4 +1,4 @@
-## Hi there, Bisrat here <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="width:50px;height:50px;">
+## Hi there, Bisrat here 👋
 
 ✨I am a dedicated Software Engineer having a clear understanding of marketable and scalable software development principles✨ <br /> <br />
 🔭 I’m currently working on Full Stack Web Development Projects <br />
