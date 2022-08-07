@@ -39,12 +39,12 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js             9 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.97 %
-TypeScript         7 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.49 %
-JavaScript         3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Python             2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-HTML               1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-reStructuredText   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Vue.js             15 hrs 12 mins  ██████████▒░░░░░░░░░░░░░░   41.81 %
+TypeScript         10 hrs          ███████░░░░░░░░░░░░░░░░░░   27.53 %
+JavaScript         5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Python             3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+HTML               2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+reStructuredText   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
