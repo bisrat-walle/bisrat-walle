@@ -39,12 +39,12 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 8 mins   ████████████████████▓░░░░   82.34 %
-JavaScript   58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Python       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-JSON         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript   20 hrs 56 mins  ██████████████████████░░░   88.38 %
+JavaScript   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
