@@ -39,12 +39,12 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Python        3 hrs           ██████████████████████▓░░   91.33 %
-Markdown      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-TypeScript    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-MATLAB        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python        4 hrs 11 mins   ███████████████▓░░░░░░░░░   62.09 %
+TypeScript    2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.84 %
+C++           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+MATLAB        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
