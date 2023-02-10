@@ -39,9 +39,9 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Python        4 hrs 2 mins    ███████████████████▒░░░░░   77.74 %
-MATLAB        47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Objective-C   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Python        4 hrs 2 mins    ██████████████████▓░░░░░░   74.70 %
+MATLAB        1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+Objective-C   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 C++           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
