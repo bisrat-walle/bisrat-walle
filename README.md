@@ -39,8 +39,7 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 34 mins   ████████████████████████▒   96.67 %
-Other    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Python   1 hr 48 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
