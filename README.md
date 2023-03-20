@@ -39,12 +39,9 @@ I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me
 <!--START_SECTION:waka-->
 
 ```text
-Text         1 hr 6 mins     ███████▓░░░░░░░░░░░░░░░░░   30.99 %
-Bash         54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-JavaScript   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Python       30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Docker       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Python       1 hr 44 mins    █████████████████▓░░░░░░░   70.34 %
+JavaScript   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
