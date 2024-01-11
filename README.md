@@ -3,13 +3,12 @@
 ✨I am a dedicated Software Engineer having a clear understanding of marketable and scalable software development principles✨ <br /> <br />
 🔭 I’m currently working on Full Stack Web Development Projects <br />
 🌱 I’m currently learning Software Engineering at Addis Ababa University<br />
-👯 I’m looking to collaborate on open source projects<br />
+👯 I’m looking to collaborate on open-source projects<br />
 <!--⚡ Fun fact-->
 
 📫 Reach me on <a href="https://linkedin.com/in/bisrat-walle" target="_blank">LinkedIn</a>, <a href="https://t.me/bisrat_walle" target="_blank">Telegram</a>
 
-I am super-excited to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${bisrat-walle}.${bisrat-walle})
-
+I am super excited to see you here!
 
 <div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between" -->
 
