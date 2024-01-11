@@ -1,7 +1,7 @@
 ## Hi there, Bisrat here 👋
 
 ✨I am a dedicated Software Engineer having a clear understanding of marketable and scalable software development principles✨ <br /> <br />
-🔭 I’m currently working on Full Stack Web Development Projects <br />
+🔭 I’m currently working on Full Stack Web Development and ML Projects <br />
 🌱 I’m currently learning Software Engineering at Addis Ababa University<br />
 👯 I’m looking to collaborate on open-source projects<br />
 <!--⚡ Fun fact-->
